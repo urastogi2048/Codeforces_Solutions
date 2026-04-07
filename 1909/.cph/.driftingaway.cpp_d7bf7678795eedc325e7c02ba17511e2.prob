@@ -1,0 +1,1 @@
+{"name":"Local: driftingaway","url":"d:\\Codeforces_solutions\\Codeforces_Solutions\\1909\\driftingaway.cpp","tests":[{"id":1772526614605,"input":"4\n*****\n<<<>\n>*<\n*\n","output":"-1\n3\n-1\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codeforces_solutions\\Codeforces_Solutions\\1909\\driftingaway.cpp","group":"local","local":true}
