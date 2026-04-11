@@ -20,10 +20,10 @@ int main (){
         }
         
         ll x=q-p;
-        // if(p-2*x == q-3*x) cout<<"Bob"<<endl;
-        // else cout<<"Alice"<<endl;
+        if(p-2*x == q-3*x) cout<<"Bob"<<endl;
+        else cout<<"Alice"<<endl;
        
-        cout<<p-2*x<<" "<<q-3*x<<endl;
+       // cout<<p-2*x<<" "<<q-3*x<<endl;
         
 
     }
