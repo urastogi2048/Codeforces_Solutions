@@ -1,0 +1,1 @@
+{"name":"Local: simplerepition","url":"d:\\Codeforces_solutions\\Codeforces_Solutions\\1909\\simplerepition.cpp","tests":[{"id":1776088811724,"input":"4\n52 3\n6 7\n7 1\n1 7\n","output":"NO\nNO\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codeforces_solutions\\Codeforces_Solutions\\1909\\simplerepition.cpp","group":"local","local":true}
